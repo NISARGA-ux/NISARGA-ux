@@ -1,34 +1,33 @@
 # 👋 Hi, I'm Nisarga D Bhat
 
-🎓 CSE student at REVA University  
-🤖 Currently building **EduPulse** – an AI-powered personalized learning assistant  
-💡 Passionate about **AI**, **full-stack development**, and **UI/UX design**  
-🧠 Always learning and experimenting with new tech  
-📬 Reach me: [LinkedIn](https://www.linkedin.com/in/nisarga-d-bhat-601412295/) | 📧 nisaragabhat9@gmail.com
+🎓 CSE student @ REVA University  
+🧠 Curious mind exploring data, design, and code  
+💡 Into patterns, insights, and building with purpose  
+📬 [LinkedIn](https://www.linkedin.com/in/nisarga-d-bhat-601412295/) | 📧 nisaragabhat9@gmail.com
 
 ---
 
-## 🔧 Tech Stack
-- **Languages:** Python, Java, JavaScript  
-- **Web:** HTML, CSS, React, Node.js  
-- **Tools:** Git, VS Code, Figma, Postman  
-- **AI/ML:** scikit-learn, pandas, transformers
+## 🛠️ What I Work With
+- Python (pandas, matplotlib, seaborn)  
+- SQL (data exploration & queries)  
+- Web basics: HTML, CSS, JS  
+- Tools: Figma, Power BI, VS Code, Git
 
 ---
 
-## 🌱 Currently Learning
-- MERN Stack  
-- LLMs & AI toolchains  
-- UI/UX with Figma
+## ✨ Projects
+- 🎯 **EduPulse** – AI-powered personalized learning assistant  
+- 📊 **Netflix Insights** – Analyzing trends in content release over time  
+- ✅ **To-Do App** – Simple task tracker using JS  
+- ⏰ **Digital Clock** – JS-based real-time clock
 
 ---
 
-## 💡 Mini Projects to Check Out (Coming Soon!)
-- 🎯 **EduPulse** – AI study assistant  
-- ✅ **To-Do App** – Simple task tracker  
-- 💬 **Sentiment Detector** – Classify text as Positive/Negative  
-- ⏰ **Digital Clock** – Basic JS app
+## 🌱 Learning & Building
+- Making sense of messy datasets  
+- Exploring visual storytelling through data  
+- Creating smooth UI and clean code
 
 ---
 
-### ⭐ Thanks for stopping by!
+Thanks for visiting — always down to learn, build, and explore! 🌱
